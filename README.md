@@ -48,6 +48,7 @@ Because most daily journeys are much closer to 30–50 km than 100 km.
 ---
 
 ## Key Insight: Diminishing Returns
+![Speed100](Images/speed100.png)
 
 When you're driving slowly, increasing your speed makes a huge difference.
 
@@ -76,6 +77,8 @@ The faster you already are, the less benefit each additional speed increase prov
 Most people aren't driving 100 km every day.
 
 Let's look at a more realistic example: a **30 km journey**.
+![Speed30](Images/speed30.png)
+
 
 | Speed Increase | Time Saved  |
 | -------------- | ----------- |
